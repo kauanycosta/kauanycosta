@@ -1,10 +1,19 @@
 ### Oii eu sou Kauany da Costa, estudante de programação!
 
+<a href="https://github.com/KauanyCosta/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KauanyCosta&show_icons=true&theme=radical&count_private=true" />
+</a>
+<a href="https://github.com/KauanyCosta/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanyCosta&layout=compact&theme=radical" />
+</a>
+
+
+
+<!--
+
 ![Kauany's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanyCosta&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanyCosta&layout=compact&theme=radical)](https://github.com/KauanyCosta/github-readme-stats&theme=radical)
-
-<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
