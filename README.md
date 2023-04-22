@@ -1,9 +1,10 @@
-### Hi there 👋
+### Oii eu sou Kauany da Costa, estudante de programação!
+
+![Kauany's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanyCosta&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanyCosta&layout=compact&theme=radical)](https://github.com/KauanyCosta/github-readme-stats&theme=radical)
 
 <!--
-**KauanyCosta/kauanycosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
