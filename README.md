@@ -1,4 +1,4 @@
-### Oii eu sou Kauany da Costa, estudante de programação!
+### Oii eu sou a Kauany da Costa, estudante de programação!
 
 <a href="https://github.com/KauanyCosta/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KauanyCosta&show_icons=true&theme=radical&count_private=true" />
