@@ -1,4 +1,5 @@
-### Oii eu sou a Kauany da Costa, estudante de programação!
+# Olá! eu sou a Kauany
+## estudante de ciência da computação e fascinada por programação!
 
 <a href="https://github.com/KauanyCosta/github-readme-stats">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KauanyCosta&show_icons=true&theme=radical&count_private=true" />
@@ -22,7 +23,7 @@
   <a href = "mailto:kauanydacostta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauanydacosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-<!--[Snake animation](https://github.com/kauanycosta/kauanycosta/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/kauanycosta/kauanycosta/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
