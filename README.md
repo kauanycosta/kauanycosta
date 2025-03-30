@@ -25,7 +25,7 @@
   
 <!--[Snake animation](https://platane.github.io/snk/)
 
-<!--
+-->
 
 ![Kauany's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanyCosta&show_icons=true&theme=radical&count_private=true)
 
